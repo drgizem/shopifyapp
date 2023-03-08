@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+![](./shopify1.jpg)
+![](./shopify2.jpg)
+![](./shopify3.jpg)
+![](./shopify4.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
